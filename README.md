@@ -1,6 +1,13 @@
-# RStudio 2017 Meetup Roadshow
 
-## Demos
+## The latest stuff from RStudio
+
+**Meetup: 2017-05-17 @ Jak's Tap**
+
+The RStudio folks will be in town for the R/Finance conference, so we invited them to a meet-up. Sean Lopp, a statistician on the RStudio staff, will show off the latest tools for digital publishing and dissemination of your statistical work. He can also answer your questions about Shiny and the IDE.
+
+There will be pizza, courtesy of RStudio, too. Doors open at 5:30, the presentation begins at 6:00. We hope to see you at Jak's!
+
+## RStudio 2017 Meetup Roadshow
 
 These demos are designed to highlight the [tidyverse](http://tidyverse.org) and [RStudio Connect](https://rstudio.com/about/products/connect). 
 
